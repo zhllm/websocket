@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zhllm/websocket/issues"
   },
-  "homepage": "https://github.com/zhllm/websocket#readme"
+  "homepage": "https://github.com/zhllm/websocket#readme",
+  "dependencies": {
+    "socket.io": "^4.5.0"
+  }
 }
